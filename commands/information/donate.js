@@ -12,11 +12,9 @@ module.exports = {
         if (status) return;
 
         return await ctx.reply(
-            `${quote("083838039693 (DANA)")}\n` +
+            `${quote("085876902820 (DANA)")}\n` +
             `${quote("─────")}\n` +
-            `${quote("https://paypal.me/itsreimau (PayPal)")}\n` +
-            `${quote("https://saweria.co/itsreimau (Saweria)")}\n` +
-            `${quote("https://trakteer.id/itsreimau (Trakteer)")}\n` +
+            `${quote("https://saweria.co/Fahrilgg (Saweria)")}\n` +
             "\n" +
             config.msg.footer
         );
