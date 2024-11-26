@@ -4,7 +4,7 @@ const {
 
 module.exports = {
     name: "owner",
-    aliases: ["creator", "developer"],
+    aliases: ["creator", "developer", "owner"],
     category: "information",
     handler: {},
     code: async (ctx) => {
