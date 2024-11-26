@@ -12,7 +12,7 @@ module.exports = {
         if (status) return;
 
         return await ctx.reply(
-            `${quote("https://github.com/itsreimau/ckptw-wabot")}\n` +
+            `${quote("https://wa.me/6285876902820")}\n` +
             "\n" +
             config.msg.footer
         ); // Jika Anda tidak menghapus ini, terima kasih!
