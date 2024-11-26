@@ -21,7 +21,7 @@ async function get(type, ctx) {
             "\n" +
             `${quote(`Uptime: ${general.convertMsToDuration(Date.now() - config.bot.readyAt)}`)}\n` +
             `${quote(`Database: ${config.bot.dbSize} (Simpl.DB - JSON)`)}\n` +
-            `${quote(`Library: @mengkodingan/ckptw`)}\n` +
+            `${quote(`name: @fazbot`)}\n` +
             "\n" +
             `${italic("Jangan lupa berdonasi agar bot tetap online!")}\n` +
             `${config.msg.readmore}\n`;
@@ -162,8 +162,7 @@ async function get(type, ctx) {
                     ai: "AI",
                     converter: "Converter",
                     downloader: "Downloader",
-                    entertainment: "Entertainment",
-                    game: "Game",
+                    entertainment: "Game",
                     group: "Group",
                     maker: "Maker",
                     profile: "Profile",
